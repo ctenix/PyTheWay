@@ -1,8 +1,8 @@
 import requests
 from lxml import html
-page = requests.get('http://www.lsu.edu/eng/pete/people/faculty/index.php')
+page = requests.get('https://www.aiche.org/community/awards/winners/28951')
 tree = html.fromstring(page.content)
-print type(tree)
+print(type(tree))
 
 
 
