@@ -6,7 +6,7 @@ url = "http://www.spe.org/awards/regional-distinguished-achievement-award-petrol
 page = get_page(url)
 tree = tree(page)
 
-scholars = tree.cssselect('div.details toggle-content hidden > p > strong')
+scholars = tree.cssselect('div.details.toggle-content.hidden')
 n = len(scholars)
 info = []
 for scholar in scholars:
