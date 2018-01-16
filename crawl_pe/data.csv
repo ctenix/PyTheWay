@@ -1,50 +1,58 @@
 ,0
-0,安越
-1,蔡振云
-2,陈新志
-3,窦梅
-4,何潮洪
-5,金伟光
-6,李勇
-7,李洲鹏
-8,麻红昭
-9,南碎飞
-10,钱超
-11,王成习
-12,徐国华
-13,杨国成
-14,叶向群
-15,俞迪虎
-16,俞菁
-17,虞卫国
-18,张未星
-19,朱明乔
-20,陈英奇
-21,戴立言
-22,王晓钟
-23,和庆钢
-24,梁成都
-25,周少东
-26,陈丰秋
-27,陈纪忠
-28,陈志荣
-29,胡晓萍
-30,蒋新
-31,蒋斌波
-32,李希
-33,孟琴
-34,汪宏
-35,王靖岱
-36,吴素芳
-37,阳永荣
-38,尹红
-39,袁慎峰
-40,詹晓力
-41,王正宝
-42,成有为
-43,程党国
-44,张庆华
-45,廖祖维
-46,孙婧元
-47,包永忠
-48,
+0,b'<p><strong>Abdallah Harouaka </strong><br>\n        University of Texas Permian Basin <br>\n        Southwestern North America Region<br>\n      </p>\n      '
+1,"b'<p><strong>Benoit Noetinger</strong><br>\n        IFP Energies Nouvelles<br>\n        South, Central and East Europe Region<br>\n      </p>\n      '"
+2,b'<p><strong>David C. Freeman </strong><br>\n        Marietta College<br>\n        Eastern North America Region<br>\n      </p>\n      '
+3,b'<p><strong>Ergun Kuru</strong><br>\n        University of Alberta<br>\n        Canadian Region<br>\n      </p>\n      '
+4,b'<p><strong>Eissa Al-safran</strong><br>\n        Kuwait University<br>\n        Middle East Region<br>\n      </p>\n      '
+5,b'<p><strong>Henning Dypvik</strong><br>\n        University of Oslo<br>\n        North Sea Region <br>\n      </p>\n      '
+6,b'<p><strong>Jitendra Sangwai</strong><br>\n        Indian Institute of Technology Madras<br>\n        South Asia and the Pacific Region<br>\n      </p>\n      '
+7,b'<p><strong>Joo Myung Kang </strong><br>\n        Seoul National University (SNU)<br>\n        Northern Asia Pacific Region<br>\n      </p>\n      '
+8,b'<p><strong>Mohabbat Ahmadi</strong><br>\n        University of Alaska Fairbanks<br>\n        Western North America Region<br>\n      </p>\n      '
+9,b'<p><strong>Nicolas Santos</strong><br>\n        Universidad Industrial de Santander<br>\n        South America and Caribbean Region<br>\n      </p>\n      '
+10,b'<p><strong>Phaneendra Kondapi </strong><br>\n        Texas A&amp;M University <br>\n        Gulf Coast North America Region <br>\n      </p>\n      '
+11,b'<p><strong>Prem Bikkina</strong><br>\n        Oklahoma State University<br>\n        Mid-Continent North America Region<br>\n      </p>\n      '
+12,b'<p><strong>Ramona Graves</strong><br>\n        Colorado School of Mines<br>\n        Rocky Mountain North America Region<br>\n      </p>\n      '
+13,b'<p><strong>Sidikhodzhaev Rakhim</strong><br>\n        Tashkent polytechnic University<br>\n        Russian and the Caspian Region</p>\n        '
+14,b'<p><strong>Adewale Dosunmu</strong><br>\nUniversity of Port Harcourt<br>\nAfrica Region</p>\n      '
+15,b'<p><strong>Lesley James</strong><br>\n        Memorial University of Newfoundland<br>\n        Canadian Region</p>\n      '
+16,b'<p><strong>Shahab Mohaghegh</strong><br>\n        West Virginia University<br>\n        Eastern North America Region</p>\n      '
+17,b'<p><strong>Baojun Bai</strong><br>\n        Missouri University of Science &amp; Technology<br>\n        Mid-Continent North America Region</p>\n      '
+18,b'<p><strong>Mahmood Amani</strong><br>\n        Texas A&amp;M University at Qatar<br>\n        Middle East Region</p>\n      '
+19,b'<p><strong>Ole Torsaeter</strong><br>\n        Norwegian University of Science &amp; Technology<br>\n        North Sea Region</p>\n      '
+20,b'<p><strong>Badrul Mohamed Jan</strong><br>\n        University of Malaya<br>\n        Northern Asia Pacific Region</p>\n      '
+21,b'<p><strong>Vitalii Baikov</strong><br>\n        Rosneft<br>\n        Russian and Caspian Region</p>\n      '
+22,b'<p><strong>Gabriela Savioli</strong><br>\n        South America &amp; Caribbean Region</p>\n      '
+23,b'<p><strong>Pradeep B. Jadhav</strong><br>\n        South Asia Region</p>\n      '
+24,"b'<p><strong>Guillaume Caumon</strong><br>\n        University of Lorraine<br>\n        South, Central &amp; East Europe Region</p>\n      '"
+25,b'<p><strong>Marshall Watson</strong><br>\n        Texas Tech University<br>\n        Southwestern North America Region</p>\n\t      '
+26,b'<p><strong>Hassan Dehghanpour</strong><br>\nUniversity of Alberta<br>\nCanadian</p>\n\n'
+27,b'<p><strong>Ali Takbiri Borujeni</strong><br>\nWest Virginia University<br>\nEastern North America</p>\n\n'
+28,b'<p><strong>Maria Barrufet</strong><br>\nTexas A&amp;M University<br>\nGulf Coast North America</p>\n\n'
+29,b'<p><strong>Ahmed El-banbi</strong><br>\nCairo University<br>\nMiddle East</p>\n\n'
+30,b'<p><strong>Jon Kleppe</strong><br>\nNorwegian U. of Science &amp; Tech<br>\nNorth Sea</p>\n\n'
+31,b'<p><strong>Linda Battalora</strong><br>\nColorado School of Mines<br>\nRocky Mountain North America</p>\n\n'
+32,b'<p><strong>Leonid Ruzin</strong><br>\nUkhta State Technical U<br>\nRussia and Caspian</p>\n\n'
+33,b'<p><strong>Ajay Mandal</strong><br>\nIndian School of Mines<br>\nSouth Asia</p>\n\n'
+34,"b'<p><strong>Vladimir Choque Flores</strong><br>\nIFP School<br>\nSouth, Central, and Eastern Europe</p>\n\n'"
+35,b'<p><strong>Kenneth Gray</strong><br>\nUT Austin<br>\nSouthwestern North America</p>\n\n'
+36,b'<p><strong>Abhijit Dandekar</strong><br>\nU. of Alaska - Fairbanks<br>\nWestern North America</p>\n      \n\t'
+37,b'<p><strong>Shirish Patil</strong><br>\n\t    University of Alaska Fairbanks<br>\n\t    Western North America<br>\n      \n\t</p>'
+38,b'<p><strong>Dr. Peter Behrenbruch</strong><br>\n\t    East Puffin Pty Ltd; University of Adelaide<br>\n\t    Southern Asia Pacific</p>\n\t  '
+39,b'<p><strong>J.M. Kelly</strong><br>\n\t    New Mexico Tech<br>\n\t    Southwestern North America</p>\n\t  '
+40,b'<p><strong>Behnam Jafarpour</strong><br>\n\t    University of Southern California<br>\n\t    Western North America<br>\n      \n\t</p>'
+41,b'<p><strong>Dr. Christopher D. Hawkes </strong><br>\n\t    University of Saskatchewan <br>\n\t    Canadian</p>\n\t  '
+42,b'<p><strong>Boyun Guo</strong><br>\n\t    University of Louisiana - Lafayette<br>\n\t    Eastern North America</p>\n\t  '
+43,b'<p><strong>Dr. Mohamed A. Aggour </strong><br>\n\t    Texas A&amp;M University at Qatar <br>\n\t    Middle East</p>\n\t  '
+44,b'<p><strong>Liang Yongtu</strong><br>\n\t    China Univ. of Pet. Beijing<br>\n\t    Northern Asia Pacific</p>\n\t  '
+45,b'<p><strong>Anatoly Zolotukhin </strong><br>\n\t    Gubkin Oil &amp; Gas Univ. <br>\n\t    Russia and the Caspian</p>\n\t  '
+46,b'<p><strong>Freddy Escobar </strong><br>\n\t    Universidad Surcolombiana <br>\n\t    South America and Caribbean</p>\n\t  '
+47,b'<p><strong>Yildiray Cinar</strong><br>\n\t    Univ. of New South Wales<br>\n\t    Southern Asia Pacific</p>\n\t  '
+48,b'<p><strong>Fred Aminzadeh </strong><br>\n\t    Univ of S. California<br>\n\t    Western North America </p>\n      \n\t'
+49,b'<p><strong>Roberto Aguilera</strong><br>\n\t    University of Calgary<br>\n\t    Canadian</p>\n\t  '
+50,b'<p><strong>Thomas A. Blasingame</strong><br>\n\t    Prof. at Texas A&amp;M<br>\n\t    Gulf Coast North America</p>\n\t  '
+51,b'<p><strong>Shawket G. Ghedan</strong><br>\n\t    Petroleum Institute<br>\n\t    Middle East</p>\n\t  '
+52,b'<p><strong>Matthew Jackson</strong><br>\n\t    Imperial College London<br>\n\t    North Sea</p>\n\t  '
+53,"b'<p><strong>Francesca Verga</strong><br>\n\t    Politenico di Torino<br>\n\t    South, Central and East Europe</p>\n\t  '"
+54,b'<p><strong>Rosalind Archer</strong><br>\n\t    University of Auckland<br>\n\t    Southern Asia Pacific</p>\n\t  '
+55,b'<p><strong>Dr. Thomas W. Engler</strong><br>\n\t    New Mexico Tech<br>\n\t    Southwestern North America</p>\n\t  '
+56,b'<p><strong>Kristian Jessen</strong><br>\n\t    University of Southern California<br>\n\t    Western North America<br>\n      \n\t</p>'
